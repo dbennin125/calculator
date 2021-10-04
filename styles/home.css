@@ -1,1 +1,16 @@
 /* add home page styles here */
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+}
+
+input {
+    width: 50%;
+}
+
+select {
+    width: 50%;
+}
